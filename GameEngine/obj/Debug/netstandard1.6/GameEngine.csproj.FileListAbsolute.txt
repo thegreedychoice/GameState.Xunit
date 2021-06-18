@@ -1,0 +1,9 @@
+C:\src\playground\Pluralsight\Xunit\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\src\playground\Pluralsight\Xunit\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\src\playground\Pluralsight\Xunit\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\src\playground\Pluralsight\Xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\src\playground\Pluralsight\Xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\src\playground\Pluralsight\Xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\src\playground\Pluralsight\Xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\src\playground\Pluralsight\Xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
+C:\src\playground\Pluralsight\Xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
